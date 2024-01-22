@@ -1,4 +1,4 @@
-<h3>About me</h3>
+<h2>About me</h2>
 Name: Abinandh
 <br/>
 Age: 16 years old
